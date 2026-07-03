@@ -1,3 +1,6 @@
+// Program: Second Largest Element
+// Description: Finds the second largest distinct element in an array
+// Time Complexity: O(n)
 #include<iostream>
 #include<climits>
 using namespace std;
