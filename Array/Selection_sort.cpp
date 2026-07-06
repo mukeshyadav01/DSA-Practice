@@ -1,5 +1,5 @@
 // Program : Selection Sort
-// Description : Sorts an array using selection sort
+// Description : Sorts an array in Ascending order using selection sort
 // Time Complexity : O(n^2)
 #include<iostream>
 using namespace std;
