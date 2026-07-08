@@ -8,3 +8,4 @@
 | Missing_no_array.cpp | Find the missing no in array | 
 | Rotate_array_by1.cpp | Rotates array elements to the right by one position | Array manipulation |
 | Selection_sort.cpp | Sorts an array in ascending order using selection sort | Selection Sort |
+| Bubble_sort.cpp | Sorts an array in ascending order using Bubble sort | Bubble sort |
