@@ -1,3 +1,1 @@
-
-            if(arr[j]>arr[j+1])
-            {
+return -1;
