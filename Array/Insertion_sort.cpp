@@ -1,3 +1,6 @@
+// Program: Insertion Sort
+// Description: Implements the insertion sort algorithm to sort an array of integers in ascending order.
+// Time Complexity: O(n^2) in the worst case, O(n) in the best case (when the array is already sorted).
 #include<iostream>
 using namespace std;
 int main()

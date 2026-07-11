@@ -9,3 +9,4 @@
 | Rotate_array_by1.cpp | Rotates array elements to the right by one position | Array manipulation |
 | Selection_sort.cpp | Sorts an array in ascending order using selection sort | Selection Sort |
 | Bubble_sort.cpp | Sorts an array in ascending order using Bubble sort | Bubble sort |
+| Insertion_sort.cpp | Implements the insertion sort algorithm to sort an array of integers in ascending order | Insertion sort |
